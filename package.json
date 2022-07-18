@@ -1,0 +1,28 @@
+{
+  "name": "ui-png",
+  "version": "1.0.0",
+  "description": "User-Initial Image Generator",
+  "main": "app.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "canvas": "^2.9.1",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asparksys/avatar-generator.git"
+  },
+  "author": "Samir KC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asparksys/avatar-generator/issues"
+  },
+  "homepage": "https://github.com/asparksys/avatar-generator#readme"
+}
